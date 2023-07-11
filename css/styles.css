@@ -338,9 +338,8 @@ footer p {
         flex-direction: column;
         flex-wrap: nowrap;
     }
-    
-
 }
+
 @media (max-width: 630px) and (min-width: 445px){
     form {
         padding: 50px 100px
